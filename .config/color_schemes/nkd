@@ -1,0 +1,28 @@
+!-- nkd color scheme
+! Black
+URxvt*color0: #101309
+URxvt*color8: #222815
+! Red
+URxvt*color1: #c8611f
+URxvt*color9: #ffb73e
+! Green
+URxvt*color2: #546b28
+URxvt*color10: #9fca4e
+! Yellow
+URxvt*color3: #dca53e
+URxvt*color11: #ffff77
+! Blue
+URxvt*color4: #235967
+URxvt*color12: #45a9c2
+! Purple
+URxvt*color5: #914c5a
+URxvt*color13: #ff91aa
+! Cyan
+URxvt*color6: #4f9e4e
+URxvt*color14: #96ff94
+! White
+URxvt*color15: #ffff48
+URxvt*color7: #9da560
+
+URxvt*foreground: #9da560
+URxvt*background: #101309
