@@ -1,0 +1,31 @@
+*background:    #333333
+*foreground:    #CCCCCC
+
+!black
+*color0 :            #666666
+*color8 :            #999999
+!red
+*color1 :            #CC6666
+*color9 :            #FF9999
+!green
+*color2 :            #99CC66
+*color10:            #99FF99
+!yellow
+*color3 :            #CC9966
+*color11:            #FFFF99
+!blue
+*color4 :            #6699CC
+*color12:            #99CCFF
+!magenta
+*color5 :            #CC6699
+*color13:            #FF99CC
+!cyan
+*color6 :            #66CCCC
+*color14:            #99FFFF
+!white
+*color7 :            #CCCCCC
+*color15:            #FFFFFF
+
+urxvt*cursorColor:          #999999
+urxvt*colorBD:              #FFFFFF
+urxvt*colorUL:              #CCCCFF

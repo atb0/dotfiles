@@ -70,7 +70,7 @@ URxvt.iso14755_52:false
 
 ! URxvt Color Settings {
 ! URxvt colorschemes saved from other users
-#include "/home/andrew/.config/color_schemes/Hund"
+#include "/home/andrew/.config/color_schemes/gutterslob"
 
 !Color depth in bits
 URxvt.depth:16
